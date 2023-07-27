@@ -11,5 +11,3 @@ redirect_from:
 I am currently a sixth-year doctoral student in the Department of Linguistics at the University of Texas at Austin. My research focuses on Zinacantec Family Homesign, a sign language developed by three deaf siblings and their hearing extended family members in Zinacantán, a Tsotsil Maya community of highland Chiapas, Mexico.
 
 [Here](https://austin-german.github.io/files/CV_AustinGerman.pdf) is my CV (updated July 2023).
-
-<embed src="https://park-seyeon.github.io/files/CV_AustinGerman.pdf" type="application/pdf"> 
