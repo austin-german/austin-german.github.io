@@ -14,7 +14,7 @@ redirect_from:
 
 * Cornelia Loos, Austin German, Richard P. Meier. (2022) Simultaneous structures in sign languages: acquisition and emergence. Frontiers in Psychology 13:992589. "doi.org/10.3389/fpsyg.2022.992589".
 
-* Gabriela Caballero & Austin German. Grammatical tone patterns in Choguita Rarámuri (Tarahumara). (2021) International Journal of American Linguistics 87:2, pp. 149-178. "doi.org/10.1086/712980".
+* Gabriela Caballero & Austin German. Grammatical tone patterns in Choguita Rarámuri (Tarahumara). (2021) International Journal of American Linguistics 87:2, pp. 149-178. [doi.org/10.1086/712980].
 
 
 ## Conference presentations
