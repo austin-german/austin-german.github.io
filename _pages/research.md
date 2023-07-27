@@ -47,8 +47,8 @@ redirect_from:
 
 *Austin German. (2022). Evidence of an emergent classifier system in Zinacantec Family Homesign. Cognitive and Cultural Influences on Language Emergence. May 25-27. Virtual workshop.
 
-*2020		Austin German. La estructura secuencial en la interacción Z. Workshop on Co-expression and Multimodality in Linguistic Interaction in Mesoamerica. Virtual meeting. September 2-3.
+*Austin German. (2022). La estructura secuencial en la interacción Z. Workshop on Co-expression and Multimodality in Linguistic Interaction in Mesoamerica. Virtual meeting. September 2-3.
 
-*2020		Austin German. Los canales articulatorios y los espacios conceptuales en la interacción Z. Workshop on Co-expression and Multimodality in Linguistic 			Interaction in Mesoamerica. Centro de Investigaciones Multidisciplinarias sobre Chiapas y la Frontera Sur, Universidad Autónoma de México (CIMSUR-UNAM). San Cristóbal de las Casas, Mexico. February 1-6.
+*Austin German. (2022). Los canales articulatorios y los espacios conceptuales en la interacción Z. Workshop on Co-expression and Multimodality in Linguistic Interaction in Mesoamerica. Centro de Investigaciones Multidisciplinarias sobre Chiapas y la Frontera Sur, Universidad Autónoma de México (CIMSUR-UNAM). San Cristóbal de las Casas, Mexico. February 1-6.
 
 
