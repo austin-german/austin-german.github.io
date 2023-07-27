@@ -45,7 +45,7 @@ redirect_from:
 
 * Austin German. (2022). Simultaneity and sequentiality in signed languages: with examples from an emerging signed language. The Study of Signed Languages: Implications of Linguistic Typology. Workshop at the 2022 Conference of the Association for Linguistic Typology (ALT2022).
 
-* Austin German. (2022). Evidence of an emergent classifier system in Zinacantec Family Homesign. Cognitive and Cultural Influences on Language Emergence. May 25-27. Virtual workshop.
+* Austin German. (2022). Evidence of an emergent classifier system in Zinacantec Family Homesign. Cognitive and Cultural Influences on Language Emergence. May 25-27. Virtual workshop. [Video of presentation in English with auto-captions and International Sign interpretation] (https://youtu.be/urekHNrootE)
 
 * Austin German. (2022). La estructura secuencial en la interacción Z. Workshop on Co-expression and Multimodality in Linguistic Interaction in Mesoamerica. Virtual meeting. September 2-3.
 
