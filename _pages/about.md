@@ -14,7 +14,7 @@ I am currently a sixth-year doctoral student in the Department of Linguistics at
 
 Before coming to UT, I studied Linguistics and Cognitive Science at the University of California, San Diego. It was at UCSD that I became fascinated with the complex interactions of language, cognition, and experience.
 
-Please click [here](https://austin-german.github.io/files/CV_AustinGerman.pdf) to see my CV (updated July 2023), and feel free to get in touch with me at [ag68349 (at) utexas (dot) edu](mailto: "ag68349@utexas.edu"). Some of my publications and presentations are available on [my Research Gate page](https://www.researchgate.net/profile/Austin-German). If you would like to access anything I haven't posted, please shoot me an email.
+Please click [here](https://austin-german.github.io/files/CV_AustinGerman.pdf) to see my CV (updated July 2023), and feel free to get in touch with me at [ag68349 (at) utexas (dot) edu](mailto: ag68349@utexas.edu). Some of my publications and presentations are available on [my Research Gate page](https://www.researchgate.net/profile/Austin-German). If you would like to access anything I haven't posted, please shoot me an email.
 
 
 
