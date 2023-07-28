@@ -1,11 +1,14 @@
 ---
 title: "Research"
 permalink: /research/
-author_profile: true
+author_profile: flase
 redirect_from: 
   - /md/
   - /markdown.html
+![A residential street in Zinacantan with lush green mountains in the background](/images/Z_street.JPG)
 ---
+
+
 ## Journal articles
 * Austin German. (in press). Abrupt grammatical change in an emergent sign language: the expression of motion in Zinacantec Family Homesign. Diachronica.
 
@@ -46,8 +49,8 @@ redirect_from:
 
 * Austin German. (2022). Evidence of an emergent classifier system in Zinacantec Family Homesign. Cognitive and Cultural Influences on Language Emergence. Virtual workshop.  May 25-27. [Video of presentation in English with auto-captions and International Sign interpretation](https://youtu.be/urekHNrootE).
 
-* Austin German. (2020). La estructura secuencial en la interacción Z. Workshop on Co-expression and Multimodality in Linguistic Interaction in Mesoamerica. Virtual meeting. September 2-3.
+* Austin German. (2020). Estructura secuencial en la interacción Z. Workshop on Co-expression and Multimodality in Linguistic Interaction in Mesoamerica. Virtual meeting. September 2-3.
 
-* Austin German. (2020). Los canales articulatorios y los espacios conceptuales en la interacción Z. Workshop on Co-expression and Multimodality in Linguistic Interaction in Mesoamerica. Centro de Investigaciones Multidisciplinarias sobre Chiapas y la Frontera Sur, Universidad Autónoma de México (CIMSUR-UNAM). San Cristóbal de las Casas, Mexico. February 1-6.
+* Austin German. (2020). Canales articulatorios y espacios conceptuales en la interacción Z. Workshop on Co-expression and Multimodality in Linguistic Interaction in Mesoamerica. Centro de Investigaciones Multidisciplinarias sobre Chiapas y la Frontera Sur, Universidad Autónoma de México (CIMSUR-UNAM). San Cristóbal de las Casas, Mexico. February 1-6.
 
 
