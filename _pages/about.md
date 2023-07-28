@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a sixth-year doctoral student in the Department of Linguistics at the University of Texas at Austin. My research focuses on Zinacantec Family Homesign ("Z sign"), a sign language developed by three deaf siblings and their hearing extended family members in Zinacantán, a Tsotsil Maya community of highland Chiapas, Mexico. I am broadly interested in (i) how social dynamics influence the structure of young sign languages, and (ii) how the quantity of input to which a language learner has access influences language development.
+I am currently a sixth-year doctoral student in the Department of Linguistics at the University of Texas at Austin. My research focuses on Zinacantec Family Homesign ("Z sign"), a signed language developed by three deaf siblings and their hearing extended family members in Zinacantán, a Tsotsil Maya community of highland Chiapas, Mexico. I am broadly interested in (i) how the structure and social dynamics of signing communities influence the grammatical structure of signed languages, and (ii) how the quantity of input to which a language learner has access influences language development.
 
-Before coming to UT, I studied Linguistics and Cognitive Science at the University of California, San Diego.
+Before coming to UT, I studied Linguistics and Cognitive Science at the University of California, San Diego. It was at UCSD that I became fascinated with the complex interactions of language, cognition, and sociocultural experience.
 
 Click [here](https://austin-german.github.io/files/CV_AustinGerman.pdf) to see my CV (updated July 2023).
 
