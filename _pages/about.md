@@ -20,7 +20,7 @@ Please click [here](https://austin-german.github.io/files/CV_AustinGerman.pdf) t
 
 ## What's new?
 _Summer 2023_
-* After spending all of May through July working two applications for post-doctoral fellowships, a chapter for an edited volume, and a journal manuscript (_none of which are finished..._), I'm finally escaping the scorching Texas heat to go visit the Z signers for six weeks in August and September. I've been warned that the newest member of the family, who I remember as a five-month-old, is now able to run around and tear up the house as a toddling almost-two-year-old. I have no doubt he'll have a cameo in virtually every elicitation session.
+* After spending all of May through July working on two applications for post-doctoral fellowships, a chapter for an edited volume, and a journal manuscript (_none of which are finished..._), I'm finally escaping the scorching Texas heat to go visit the Z signers for six weeks in August and September. I've been warned that the newest member of the family, who I remember as a five-month-old, is now able to run around and tear up the house as a toddling almost-two-year-old. I have no doubt he'll have a cameo in virtually every elicitation session.
   
 * My first sole-authored article has been accepted for publication! It will appear in a special issue of _Diachronica_ on the historical linguistics of sign languages. This work formed the basis of my master's thesis, which I completed in 2021.
   
