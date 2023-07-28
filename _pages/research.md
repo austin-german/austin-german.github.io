@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 
 ---
-## Journal articles <img src="/images/Z_street.png" align = "right" width = "125" height = "125">
+## Journal articles 
 * Austin German. (in press). Abrupt grammatical change in an emergent sign language: the expression of motion in Zinacantec Family Homesign. Diachronica.
 
 * Laura Horton, Lynn Hou, Austin German, & Jenny Singleton. (in press). Sign language socialization and participant frameworks in three indigenous Mesoamerican communities: A qualitative comparative study. Research on Language and Social Interaction.
@@ -16,6 +16,7 @@ redirect_from:
 
 * Gabriela Caballero & Austin German. Grammatical tone patterns in Choguita Rarámuri (Tarahumara). (2021) International Journal of American Linguistics 87:2, pp. 149-178. [doi.org/10.1086/712980](http://dx.doi.org/10.1086/712980).
 
+<img src="/images/Z_street.png"  width = "150" height = "150">
 
 ## Conference presentations
 * Austin German. (2023). Convencionalización lexica en una lengua de señas emergente de Zinacantán. Tenth Conference on Indigenous Languages of Latin America (CILLA-X). The University of Texas at Austin. November 9-11.
