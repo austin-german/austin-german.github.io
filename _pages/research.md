@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 
 ---
-<img src="/images/Z_street.png" height = "300">
+<img src="/images/Z_street.png" height = "300", width = "300">
 
 ## Journal articles 
 * Austin German. (in press). Abrupt grammatical change in an emergent sign language: the expression of motion in Zinacantec Family Homesign. Diachronica.
