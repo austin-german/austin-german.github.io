@@ -14,7 +14,7 @@ Before coming to UT, I studied Linguistics and Cognitive Science at the Universi
 
 Please click [here](https://austin-german.github.io/files/CV_AustinGerman.pdf) to see my CV (updated July 2023), and feel free to get in touch with me at ag68349@utexas.edu.
 
-![Two white bunnies and a black chicken eating yellow corn out of a black metal bucket](/images/Z_Bunnies.JPG)
+<img src="/images/Z_Bunnies.JPG" width = "100" height = "100">
 
 ## What's new?
 _Summer 2023_
