@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-![A residential street in Zinacantan with lush green mountains in the background](images/Z_street.png)
+![A residential street in Zinacantan with lush green mountains in the background](/images/Z_street.png)
 
 ## Journal articles
 * Austin German. (in press). Abrupt grammatical change in an emergent sign language: the expression of motion in Zinacantec Family Homesign. Diachronica.
