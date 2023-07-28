@@ -6,7 +6,6 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-Click [here](https://austin-german.github.io/files/CV_AustinGerman.pdf) to download my CV as a PDF (updated July 2023).
 ## Journal articles
 * Austin German. (in press). Abrupt grammatical change in an emergent sign language: the expression of motion in Zinacantec Family Homesign. Diachronica.
 
