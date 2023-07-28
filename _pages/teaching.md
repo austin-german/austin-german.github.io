@@ -15,4 +15,4 @@ redirect_from:
 * _Introduction to the study of language_. The University of Texas at Austin. Fall 2019.
 * _Teaching Assistant. English conversation and fluency_. University of California, San Diego Extension English Language                     Institute. Summer 2017.
 
-<img src="/images/Z_Lake.png" width = "300" height = "300">
+<img src="/images/Z_Lake.png">
