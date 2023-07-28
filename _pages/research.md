@@ -7,7 +7,7 @@ redirect_from:
   - /markdown.html
 
 ---
-<img src="/images/Z_Field.png">
+<img src="/images/Z_Street.png">
 
 ## Journal articles 
 * Austin German. (in press). Abrupt grammatical change in an emergent sign language: the expression of motion in Zinacantec Family Homesign. Diachronica.
