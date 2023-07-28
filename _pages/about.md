@@ -23,4 +23,4 @@ _Summer 2023_
   
 * An article co-authored with profs. Laura Horton, Lynn Hou, and Jenny Singleton on language socialization in three indigenous Mesoamerican signing communities has been accepted for publication in _Research on Language and Social Interaction_. I'm thrilled to finally have this comparative paper published! My own contribution to this paper grew out of some research assistant work I completed for John Haviland at UCSD way back in 2016-2017.
 
-![Z street](https://github.com/austin-german/austin-german.github.io/blob/fd716186e8c9be61be9266c676862c7d4cba88b8/images/Z_street.png)
+![A street in Zinacantan with lush green mountains in the background(/images/Z_street.png)
