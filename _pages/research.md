@@ -7,6 +7,7 @@ redirect_from:
   - /markdown.html
 
 ---
+
 ![A residential street in Zinacantan with lush green mountains in the background](images/Z_street.png)
 
 ## Journal articles
