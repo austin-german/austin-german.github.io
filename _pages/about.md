@@ -14,7 +14,7 @@ Before coming to UT, I studied Linguistics and Cognitive Science at the Universi
 
 Please click [here](https://austin-german.github.io/files/CV_AustinGerman.pdf) to see my CV (updated July 2023), and feel free to get in touch with me at ag68349@utexas.edu.
 
-![A street in Zinacantan with lush green mountains in the background](/images/Z_street.png)
+![A street in Zinacantan with lush green mountains in the background](/images/Z_Bunnies.JPG)
 
 ## What's new?
 _Summer 2023_
