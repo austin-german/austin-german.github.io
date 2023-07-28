@@ -7,9 +7,7 @@ redirect_from:
   - /markdown.html
 
 ---
-<img src="/images/Z_street.png" width = "100" height = "100">
-
-## Journal articles
+## Journal articles <img src="/images/Z_street.png" width = "200" height = "200">
 * Austin German. (in press). Abrupt grammatical change in an emergent sign language: the expression of motion in Zinacantec Family Homesign. Diachronica.
 
 * Laura Horton, Lynn Hou, Austin German, & Jenny Singleton. (in press). Sign language socialization and participant frameworks in three indigenous Mesoamerican communities: A qualitative comparative study. Research on Language and Social Interaction.
