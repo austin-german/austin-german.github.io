@@ -18,5 +18,7 @@ Please click [here](https://austin-german.github.io/files/CV_AustinGerman.pdf) t
 ## What's new?
 _Summer 2023_
 * After spending all of May through July working two applications for post-doctoral fellowships, a chapter for an edited volume, and a journal manuscript (_none of which are finished..._), I'm finally escaping the scorching Texas heat to go visit the Z signers for six weeks in August and September.
+  
 * My first sole-authored article has been accepted for publication! It will appear in a special issue of _Diachronica_ on the historical linguistics of sign languages. This work formed the basis of my master's thesis, which I completed in 2021.
+  
 * An article co-authored with profs. Laura Horton, Lynn Hou, and Jenny Singleton on language socialization in three indigenous Mesoamerican signing communities has been accepted for publication in _Research on Language and Social Interaction_. I'm thrilled to finally have this comparative paper published! My own contribution to this paper grew out of some research assistant work I completed for John Haviland at UCSD way back in 2016-2017.
