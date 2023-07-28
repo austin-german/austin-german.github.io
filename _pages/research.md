@@ -16,7 +16,7 @@ redirect_from:
 
 * Gabriela Caballero & Austin German. Grammatical tone patterns in Choguita Rarámuri (Tarahumara). (2021) International Journal of American Linguistics 87:2, pp. 149-178. [doi.org/10.1086/712980](http://dx.doi.org/10.1086/712980).
   
-<img src="/images/Z_Field.png">
+<img src="/images/Z_Field.JPG">
 
 ## Conference presentations
 * Austin German. (2023). Convencionalización lexica en una lengua de señas emergente de Zinacantán. Tenth Conference on Indigenous Languages of Latin America (CILLA-X). The University of Texas at Austin. November 9-11.
