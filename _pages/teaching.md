@@ -6,7 +6,7 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
-<img src="/images/Z_Lake.png">
+<img src="/images/Z_Food.png">
 
 ## Courses taught as Instructor of Record
 * _Introduction to the study of language_. The University of Texas at Austin. Spring 2022.
