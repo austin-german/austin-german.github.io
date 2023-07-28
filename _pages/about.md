@@ -14,6 +14,7 @@ Before coming to UT, I studied Linguistics and Cognitive Science at the Universi
 
 Please click [here](https://austin-german.github.io/files/CV_AustinGerman.pdf) to see my CV (updated July 2023), and feel free to get in touch with me at ag68349@utexas.edu.
 
+![A street in Zinacantan with lush green mountains in the background](/images/Z_street.png)
 
 ## What's new?
 _Summer 2023_
@@ -23,4 +24,4 @@ _Summer 2023_
   
 * An article co-authored with profs. Laura Horton, Lynn Hou, and Jenny Singleton on language socialization in three indigenous Mesoamerican signing communities has been accepted for publication in _Research on Language and Social Interaction_. I'm thrilled to finally have this comparative paper published! My own contribution to this paper grew out of some research assistant work I completed for John Haviland at UCSD way back in 2016-2017.
 
-![A street in Zinacantan with lush green mountains in the background](/images/Z_street.png)
+
