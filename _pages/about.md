@@ -14,7 +14,7 @@ Before coming to UT, I studied Linguistics and Cognitive Science at the Universi
 
 Please click [here](https://austin-german.github.io/files/CV_AustinGerman.pdf) to see my CV (updated July 2023), and feel free to get in touch with me at ag68349@utexas.edu.
 
-<img src="/images/Z_Bunnies.png" width = "300" height = "300"> <img src="/images/Z_street.png"  width = "300" height = "300">
+<img src="/images/Z_Bunnies.png" width = "300" height = "300"> <img src="/images/Z_street.png"  width = "300" height = "300"> <img src="/images/Z_Food.png"  width = "300" height = "300">
 
 ## What's new?
 _Summer 2023_
