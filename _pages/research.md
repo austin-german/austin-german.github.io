@@ -17,7 +17,9 @@ redirect_from:
 * Cornelia Loos, Austin German, Richard P. Meier. (2022) Simultaneous structures in sign languages: acquisition and emergence. Frontiers in Psychology 13:992589. [doi.org/10.3389/fpsyg.2022.992589](http://dx.doi.org/10.3389/fpsyg.2022.992589).
 
 * Gabriela Caballero & Austin German. Grammatical tone patterns in Choguita Rarámuri (Tarahumara). (2021) International Journal of American Linguistics 87:2, pp. 149-178. [doi.org/10.1086/712980](http://dx.doi.org/10.1086/712980).
-  
+
+## Book chapters 
+* Austin German. (under review). Serial verb constructions in Zinacantec Family Homesign.
 
 ## Conference presentations
 * Austin German. (2023). Convencionalización lexica en una lengua de señas emergente de Zinacantán. Tenth Conference on Indigenous Languages of Latin America (CILLA-X). The University of Texas at Austin. November 9-11.
