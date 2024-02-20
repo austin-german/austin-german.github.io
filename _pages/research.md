@@ -10,9 +10,9 @@ redirect_from:
 <img src="/images/Z_street.png" height = "300" width = "300">
 
 ## Journal articles 
-* Austin German. (2023). Abrupt grammatical change in an emergent sign language: the expression of motion in Zinacantec Family Homesign. Diachronica. https://doi.org/10.1075/dia.22039.ger 
+* Austin German. (2023). Abrupt grammatical change in an emergent sign language: the expression of motion in Zinacantec Family Homesign. Diachronica. [doi.org/10.1075/dia.22039.ger ](https://doi.org/10.1075/dia.22039.ger) 
 
-* Laura Horton, Lynn Hou, Austin German, & Jenny Singleton. (2023). Sign language socialization and participant frameworks in three indigenous Mesoamerican communities: A qualitative comparative study. Research on Children and Social Interaction. https://doi.org/10.1558/rcsi.24314
+* Laura Horton, Lynn Hou, Austin German, & Jenny Singleton. (2023). Sign language socialization and participant frameworks in three indigenous Mesoamerican communities: A qualitative comparative study. Research on Children and Social Interaction. [doi.org/10.1558/rcsi.24314](https://doi.org/10.1558/rcsi.24314)
 
 * Cornelia Loos, Austin German, Richard P. Meier. (2022) Simultaneous structures in sign languages: acquisition and emergence. Frontiers in Psychology 13:992589. [doi.org/10.3389/fpsyg.2022.992589](http://dx.doi.org/10.3389/fpsyg.2022.992589).
 
