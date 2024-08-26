@@ -23,6 +23,10 @@ redirect_from:
 ## Book chapters 
 * Austin German. (under review). Serial verb constructions in Zinacantec Family Homesign.
 
+## Dissertation
+
+* Austin German. The emergence of linguistic structure in Zinacantec Family Homesign.
+
 ## Conference presentations
 * Austin German. (2023). Convencionalización lexica en una lengua de señas emergente de Zinacantán. Tenth Conference on Indigenous Languages of Latin America (CILLA-X). The University of Texas at Austin. November 9-11.
 
