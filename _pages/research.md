@@ -10,7 +10,7 @@ redirect_from:
 <img src="/images/Z_street.png" height = "300" width = "300">
 
 ## Journal articles 
-* Austin German (2025) “The impact of interaction on variation in Zinacantec Family Homesign”, Glossa: a journal of general linguistics 10(1). doi: [https://doi.org/10.16995/glossa.23494](https://doi.org/10.16995/glossa.23494).
+* Austin German (2025). The impact of interaction on variation in Zinacantec Family Homesign. Glossa: a journal of general linguistics 10(1):1-39. doi: [https://doi.org/10.16995/glossa.23494](https://doi.org/10.16995/glossa.23494).
 * Austin German (2024). Metalinguistic discourse in an emerging sign language. Languages 9(7):240. [doi.org/10.3390/languages9070240](https://doi.org/10.3390/languages9070240) (Part of special issue “Coexpressivity, Gesture, and Language Emergence: Modality, Composition, and Creation”)
 
 * Austin German. (2023). Abrupt grammatical change in an emergent sign language: the expression of motion in Zinacantec Family Homesign. Diachronica. [doi.org/10.1075/dia.22039.ger ](https://doi.org/10.1075/dia.22039.ger) 
