@@ -9,7 +9,8 @@ redirect_from:
 ---
 <img src="/images/Z_street.png" height = "300" width = "300">
 
-## Journal articles 
+## Journal articles
+* •	Austin German. (2026) Conventionalization of size-and-shape specifiers in Zinacantec 	Family Homesign. Sign Language & Linguistics. [https://doi.org/10.1075/sll.25009.ger](https://doi.org/10.1075/sll.25009.ger)
 * Austin German (2025). The impact of interaction on variation in Zinacantec Family Homesign. Glossa: a journal of general linguistics 10(1):1-39. doi: [https://doi.org/10.16995/glossa.23494](https://doi.org/10.16995/glossa.23494). Supplementary materials available [here](https://osf.io/vyax7/files/m84fq). 
 * Austin German (2024). Metalinguistic discourse in an emerging sign language. Languages 9(7):240. [doi.org/10.3390/languages9070240](https://doi.org/10.3390/languages9070240) (Part of special issue “Coexpressivity, Gesture, and Language Emergence: Modality, Composition, and Creation”)
 
