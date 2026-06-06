@@ -29,7 +29,7 @@ redirect_from:
 
 ## Dissertation
 
-* Austin German. The emergence of linguistic structure in Zinacantec Family Homesign.
+* Austin German. The emergence of linguistic structure in Zinacantec Family Homesign. The University of Texas at Austin. [https://doi.org/10.26153/tsw/56536](https://doi.org/10.26153/tsw/56536).
 
 ## Conference presentations
 *	Austin German. (Accepted). Verbos seriales en la lengua de señas zinacantecaː emergencia, 	gramaticalización y typología. Eleventh Conference on Indigenous Languages of Latin 	America (CILLA-XI). Virtual conference. October, 2026.
