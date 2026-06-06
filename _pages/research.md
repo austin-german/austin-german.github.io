@@ -11,8 +11,8 @@ redirect_from:
 
 ## Journal articles
 * Austin German. (2026) Conventionalization of size-and-shape specifiers in Zinacantec 	Family Homesign. Sign Language & Linguistics. [https://doi.org/10.1075/sll.25009.ger](https://doi.org/10.1075/sll.25009.ger)
-* Austin German (2025). The impact of interaction on variation in Zinacantec Family Homesign. Glossa: a journal of general linguistics 10(1):1-39. doi: [https://doi.org/10.16995/glossa.23494](https://doi.org/10.16995/glossa.23494). Supplementary materials available [here](https://osf.io/vyax7/files/m84fq). 
-* Austin German (2024). Metalinguistic discourse in an emerging sign language. Languages MPDI 9(7):240. [doi.org/10.3390/languages9070240](https://doi.org/10.3390/languages9070240) (Part of special issue “Coexpressivity, Gesture, and Language Emergence: Modality, Composition, and Creation”)
+* Austin German. (2025). The impact of interaction on variation in Zinacantec Family Homesign. Glossa: a journal of general linguistics 10(1):1-39. doi: [https://doi.org/10.16995/glossa.23494](https://doi.org/10.16995/glossa.23494). Supplementary materials available [here](https://osf.io/vyax7/files/m84fq). 
+* Austin German. (2024). Metalinguistic discourse in an emerging sign language. Languages MPDI 9(7):240. [doi.org/10.3390/languages9070240](https://doi.org/10.3390/languages9070240) (Part of special issue “Coexpressivity, Gesture, and Language Emergence: Modality, Composition, and Creation”)
 
 * Austin German. (2023). Abrupt grammatical change in an emergent sign language: the expression of motion in Zinacantec Family Homesign. Diachronica. [doi.org/10.1075/dia.22039.ger ](https://doi.org/10.1075/dia.22039.ger) 
 
@@ -33,9 +33,9 @@ redirect_from:
 
 ## Conference presentations
 *	Austin German. (Accepted). Verbos seriales en la lengua de señas zinacantecaː emergencia, 	gramaticalización y typología. Eleventh Conference on Indigenous Languages of Latin 	America (CILLA-XI). Virtual conference. October, 2026.
-*	Austin German & Hatam Tamimi (2026). The noun-verb distinction in two family sign 	languages. Chicago Linguistics Society, University of Chicago, Chicago IL. April 17-19.
+*	Austin German & Hatam Tamimi. (2026). The noun-verb distinction in two family sign 	languages. Chicago Linguistics Society, University of Chicago, Chicago IL. April 17-19.
 *	Chunan Li & Austin German. (2026). Noun and adjective order in emerging sign languages 	and silent gesture. 39th Annual Conference on Human Sentence Processing (HSP). 	Massachusetts Institute of Technology, Cambridge, MA. March 26-28.
-*	Austin German (2025). The distribution of lexical and phonological variation in Zinacantec 	Family Homesign. Sign Language Contact, Variation, & Change (SLCVC). University of 	Birmingham, Birmingham, UK. August 20-21. Presented in International Sign.
+*	Austin German. (2025). The distribution of lexical and phonological variation in Zinacantec 	Family Homesign. Sign Language Contact, Variation, & Change (SLCVC). University of 	Birmingham, Birmingham, UK. August 20-21. Presented in International Sign.
   
 * Austin German. (2024). Birth order effects on argument structure devices in Zinacantec Family Homesign. SIGN10 [in International Sign]. University of the West Indies, St Augustine Campus, Trinidad & Tobago. December 9-12. [Abstract in international sign: https://youtu.be/bPMtBx2BS7s?si=jW8XA3hioUR49bo-].
 
