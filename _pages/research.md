@@ -23,7 +23,9 @@ redirect_from:
 * Gabriela Caballero & Austin German. Grammatical tone patterns in Choguita Rarámuri (Tarahumara). (2021) International Journal of American Linguistics 87:2, pp. 149-178. [doi.org/10.1086/712980](http://dx.doi.org/10.1086/712980).
 
 ## Book chapters 
-* Austin German. (Accepted). Serial verb constructions in Zinacantec Family Homesign.
+* Austin German (Forthcoming). Conventionalization of size-and-shape specifiers in Zinacantec Family Homesign. In Aaron Shield, Kearsy Cormier, David Quinto-Pozos, & Christian Rathmann (Eds.) _Modality in Sign, Gesture, and Speech: Advancing our understanding_. Cambridge University Press.
+* Austin German. (Forthcoming). Serial verb constructions in Zinacantec Family Homesign. Serial Predicates across Languages and Modalities.
+  
 
 ## Dissertation
 
